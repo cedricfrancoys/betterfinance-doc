@@ -2,7 +2,7 @@
 
 ## Categories
 Most content allow to be assigned to one or more categories. 
-Articles and Publications share the same list of available categories (Menu/Publications/Categories or Menu/Articles/Categories) while Events use a distinct event-related list of categories (Menu/Events/Event Categories).
+Articles and Publications share the same list of available categories ("Publications > Categories" or "Articles > Categories") while Events use a distinct event-related list of categories ("Events > Event Categories").
 
 ## Highlights
 Highlights are the items that are used by the slider on the top of the Home page.
@@ -21,10 +21,20 @@ Highlights are the items that are used by the slider on the top of the Home page
 ## Pages
 
 ### Excerpts
-In addition with the title, Campaigns pages and pages from the main menu (root level "the organisation", "publications", "events", "communication", "project & campaign"), use an "excerpt" field as a short description to be displayed on the menus when applicable.
+In addition with the title, Campaigns pages and pages from the main menu (root level "the organisation", "publications", "events", "communication", "project & campaign"), use an "excerpt" field as a short description to be displayed on the menus when applicable. Just remember to fill it in if appropriate.
 
+### Templates
+Most of the time, pages use the default template. Existing pages have the template set accordingly with their location within the site structure.
+When creating a new page, it might be necessary to select the appropriate template if it differs from the default one.
 
 ## Menus
+In order to add/change/remove entries from the main menu, go to "Appearance > Menus" and edit the menu structure as desired.
+
+To add a link to a page into the menu structure:
+* On the left column, select the "Pages" drop-down 
+* Under the "View All" or "search" tab, select the targeted page
+* Click the "Add to Menu" button
+* On the right column ("Menu Structure"), you can drag-and-drop the newly added page to the desired position 
 
 ## Pictures Galleries
 
