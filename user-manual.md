@@ -5,6 +5,7 @@ The syntax `Menu > {item}` refers to the menu within the Admin area, which is ac
 
 ## Highlights
 Highlights are the items that are used by the slider at the top of the content part of the **Home page**.  
+Each highlight item consists of the following fields:  
 
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
@@ -18,6 +19,7 @@ Individual members are accessible through URL following this canevas: http://www
 
 ## Articles
 Articles are accessible through the **Communication** section.  
+Each article consists of the following fields:
 
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
@@ -33,7 +35,8 @@ On the website, articles can be accessed through the `Communication` section or 
 Individual articles are accessible through URL following this canevas: http://www.betterfinance.eu/article/{title-of-the-article}
 
 ## Publications
-Publications are documents that are accessible through the **Publications** section.  
+Publications are documents that are accessible through the **Publications** section.    
+Each publication consists of the following fields:  
 
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
