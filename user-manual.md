@@ -1,11 +1,9 @@
 # User Manual
-
-## Categories
-Most content allow to be assigned to one or more categories.  
-**Articles** and **Publications** share the same list of available categories (`Publications > Categories` or `Articles > Categories`) while **Events** use a distinct event-related list of categories (`Events > Event Categories`).
+This documentation presents the main elements the user has to deal with and details how to create new ones or update existing ones.
 
 ## Highlights
-Highlights are the items that are used by the slider at the top of the content part of the Home page.
+Highlights are the items that are used by the slider at the top of the content part of the Home page.  
+
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
@@ -16,6 +14,10 @@ Highlights are the items that are used by the slider at the top of the content p
 ## Articles
 
 ## Publications
+
+## Categories
+Most contents allow to be assigned to one or more categories.  
+**Articles** and **Publications** share the same list of available categories (`Publications > Categories` or `Articles > Categories`) while **Events** use a distinct event-related list of categories (`Events > Event Categories`).
 
 ## Pages
 
@@ -67,7 +69,7 @@ To add a link to a page into the menu structure:
 * To see the changes, go to http://www.betterfinance.eu/communication/videos-pictures/
 
 
-## Template updates
+## Template parts updates
 
 ### Update email, address, phone number
 * Appearance / Widgets / Footer Sidebar > Financepress Contact Info
