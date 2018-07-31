@@ -1,17 +1,16 @@
 # User Manual
 
 ## Categories
-Most content allow to be assigned to one or more categories. 
-Articles and Publications share the same list of available categories ("Publications > Categories" or "Articles > Categories") while Events use a distinct event-related list of categories ("Events > Event Categories").
+Most content allow to be assigned to one or more categories.  
+**Articles** and **Publications** share the same list of available categories (`Publications > Categories` or `Articles > Categories`) while **Events** use a distinct event-related list of categories (`Events > Event Categories`).
 
 ## Highlights
-Highlights are the items that are used by the slider on the top of the Home page.
+Highlights are the items that are used by the slider at the top of the content part of the Home page.
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
 * Link: direct link to the highlighted resource (publication, article, event, ...);  
  
-
 ## Members
 
 ## Articles
@@ -28,7 +27,7 @@ Most of the time, pages use the default template. Existing pages have the templa
 When creating a new page, it might be necessary to select the appropriate template if it differs from the default one.
 
 ## Menus
-In order to add/change/remove entries from the main menu, go to "Appearance > Menus" and edit the menu structure as desired.
+In order to add/change/remove entries from the main menu, go to `Appearance > Menus` and edit the menu structure as desired.
 
 To add a link to a page into the menu structure:
 * On the left column, select the "Pages" drop-down 
