@@ -21,11 +21,11 @@ Individual members are accessible through URL following this canevas: http://www
 Articles are accessible through the **Communication** section.  
 Each article consists of the following fields:
 
-* Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
-* Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
-* Content: the article itself (can be HTML formated), prefer using the featured image over embedded images in the content;
+* Featured Image: for better user experience, it should always be present;
+* Title: the full title of the article;
+* Content: the article itself (can be HTML formated), you should prefer using the featured image over embedded images in the content;
 * Category : the category the publication belongs to (see below for more details);
-* Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
+* Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUse);
 * Type : the type of the article, according to the **Communication** section ("Blog entry", "News", "Press coverage");
 * Author : the author of the article ("Better Finance" is set by default);
   
@@ -38,7 +38,7 @@ Individual articles are accessible through URL following this canevas: http://ww
 Publications are documents that are accessible through the **Publications** section.    
 Each publication consists of the following fields:  
 
-* Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
+* Title: the full title of the publication;
 * Content: a presentation of the publication and its content (can be HTML formated);
 * Category : the category the publication belongs to (see below for more details);
 * Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
