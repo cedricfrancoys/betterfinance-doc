@@ -10,7 +10,7 @@ Adding new users in achieved through main menu : `Users / Add new`.
 In most cases, a new user should be assigned the `editor` role.
 
 ## Plugins
-Here is the list of plugins requiring by the current installation:  
+Here is the list of plugins required by the current installation:  
 
 * BetterFinance Customizations
 * CMB2

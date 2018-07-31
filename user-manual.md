@@ -23,14 +23,14 @@ Each article consists of the following fields:
 
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
-* Content: should not exceed 95 chars. (will be anchored with link);
+* Content: the article itself (can be HTML formated), prefer using the featured image over embedded images in the content;
 * Category : the category the publication belongs to (see below for more details);
 * Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
 * Type : the type of the article, according to the **Communication** section ("Blog entry", "News", "Press coverage");
 * Author : the author of the article ("Better Finance" is set by default);
   
 
-On the website, articles can be accessed through the `Communication` section or using the following URL: http://www.betterfinance.eu/articles/ (full list of articles with filter and search).
+On the website, articles can be accessed through the **Communication** section or using the following URL: [http://www.betterfinance.eu/articles/](http://www.betterfinance.eu/articles/) (full list of articles with filter and search).
 
 Individual articles are accessible through URL following this canevas: http://www.betterfinance.eu/article/{title-of-the-article}
 
@@ -39,7 +39,7 @@ Publications are documents that are accessible through the **Publications** sect
 Each publication consists of the following fields:  
 
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
-* Content: should not exceed 95 chars. (will be anchored with link);
+* Content: a presentation of the publication and its content (can be HTML formated);
 * Category : the category the publication belongs to (see below for more details);
 * Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
 * Type : the type of the publication, according to the names listed under the **Publications** section ("Position Papers & Consultations", "Research Papers", "Press Releases", "Public Letters", "Presentations");
@@ -51,7 +51,7 @@ Each publication consists of the following fields:
 
 Listing of existing publications is available through `Menu > Publications > All publications`, which can be filtered by date, category, type or brand; or searched by keywords.
 
-On the website, publications can be accessed through the `Publications` section or using the following URL: http://www.betterfinance.eu/publications/ (full list of articles with filter and search).
+On the website, publications can be accessed through the `Publications` section or using the following URL: [http://www.betterfinance.eu/publications/](http://www.betterfinance.eu/publications/) (full list of articles with filter and search).
 
 Individual publications are accessible through URL following this canevas: http://www.betterfinance.eu/publication/{title-of-the-publication}
 
