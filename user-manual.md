@@ -1,10 +1,10 @@
 # User Manual
 This documentation presents the main elements the user has to deal with and details how to create new ones or update existing ones.  
 
-The syntax `Menu > {item}` refers to the menu within the Admin area.
+The syntax `Menu > {item}` refers to the menu within the Admin area, which is accessible through http://www.betterfinance.eu/wp-admin
 
 ## Highlights
-Highlights are the items that are used by the slider at the top of the content part of the `Home` page.  
+Highlights are the items that are used by the slider at the top of the content part of the **Home page**.  
 
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
@@ -17,14 +17,14 @@ Members are displayed using a map of Europe. When hovering a country, a popup in
 Individual members are accessible through URL following this canevas: http://www.betterfinance.eu/organisation/who-we-are/member-organisations/member/{name-of-the-member}
 
 ## Articles
-Articles are accessible through the `Communication` section.  
+Articles are accessible through the **Communication** section.  
 
 * Featured Image: should always be present and have a ratio of 3:2 (e.g. 500 x 333);
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
 * Category : the category the publication belongs to (see below for more details);
 * Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
-* Type : the type of the article, according to the `Communication` section ("Blog entry", "News", "Press coverage");
+* Type : the type of the article, according to the **Communication** section ("Blog entry", "News", "Press coverage");
 * Author : the author of the article ("Better Finance" is set by default);
   
 
@@ -33,13 +33,13 @@ On the website, articles can be accessed through the `Communication` section or 
 Individual articles are accessible through URL following this canevas: http://www.betterfinance.eu/article/{title-of-the-article}
 
 ## Publications
-Publications are documents that are accessible through the `Publications` section.  
+Publications are documents that are accessible through the **Publications** section.  
 
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
 * Category : the category the publication belongs to (see below for more details);
 * Brand : a meta category to attach a publication to one the BF brands (EuroShareHolders, EuroInvestors, EuroFinUSe);
-* Type : the type of the publication, according to the names listed under the `Publications` section ("Position Papers & Consultations", "Research Papers", "Press Releases", "Public Letters", "Presentations");
+* Type : the type of the publication, according to the names listed under the **Publications** section ("Position Papers & Consultations", "Research Papers", "Press Releases", "Public Letters", "Presentations");
 * Author : the author of the publication ("Better Finance" is set by default);
 * Document (en) : english version of the document;
 * Document (fr) : french version of the document, if any
@@ -66,9 +66,10 @@ Most of the time, pages use the default template. Existing pages have the templa
 When creating a new page, it might be necessary to select the appropriate template if it differs from the default one.
 
 ## Menus
-In order to add/change/remove entries from the main menu, go to `Menu > Appearance > Menus` and edit the menu structure as desired.
+In order to add/change/remove entries from the main menu, go to `Menu > Appearance > Menus` and edit the menu structure as desired.  
 
-To add a link to a page into the menu structure:
+To add a link to a page into the menu structure:  
+
 * On the left column, select the "Pages" drop-down 
 * Under the "View All" or "search" tab, select the targeted page
 * Click the "Add to Menu" button
