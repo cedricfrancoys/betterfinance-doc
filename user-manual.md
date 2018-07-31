@@ -1,7 +1,7 @@
 # User Manual
 This documentation presents the main elements the user has to deal with and details how to create new ones or update existing ones.  
 
-The syntax `Menu > {item}` refers to the menu within the Admin area, which is accessible through http://www.betterfinance.eu/wp-admin
+Here below, the syntax `Menu > {item}` refers to the menu within the Admin area, which is accessible through [http://www.betterfinance.eu/wp-admin](http://www.betterfinance.eu/wp-admin).
 
 ## Highlights
 Highlights are the items that are used by the slider at the top of the content part of the **Home page**.  
