@@ -1,7 +1,6 @@
-# User Manual
 This documentation presents the main elements the user has to deal with and details how to create new ones or update existing ones.  
 
-Here below, the syntax `Menu > {item}` refers to the menu within the Admin area, which is accessible through [http://www.betterfinance.eu/wp-admin](http://www.betterfinance.eu/wp-admin).
+Here below, the syntax `Menu > {item}` refers to the menu within the Admin area, which is accessible through [https://betterfinance.eu/wp-admin](https://betterfinance.eu/wp-admin).
 
 ## Highlights
 Highlights are the items that are used by the slider at the top of the content part of the **Home page**.  
@@ -11,7 +10,7 @@ Each highlight item consists of the following fields:
 * Title: should be short enought to fit on 2 lines (approx. max 35 chars.);
 * Content: should not exceed 95 chars. (will be anchored with link);
 * Link: direct link to the highlighted resource (publication, article, event, ...);  
- 
+
 ## Members
 Members are displayed using a map of Europe. When hovering a country, a popup indicates how many members originate from that country, and clicking the popup displays a list of members.  
 
