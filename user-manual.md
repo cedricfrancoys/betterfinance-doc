@@ -34,6 +34,7 @@ On the website, articles can be accessed through the **Communication** section o
 Individual articles are accessible through URL following this canevas: http://www.betterfinance.eu/article/{title-of-the-article}
 
 ## Publications
+
 Publications are documents that are accessible through the **Publications** section.    
 Each publication consists of the following fields:  
 
@@ -53,6 +54,19 @@ Listing of existing publications is available through `Menu > Publications > All
 On the website, publications can be accessed through the `Publications` section or using the following URL: [http://www.betterfinance.eu/publications/](http://www.betterfinance.eu/publications/) (full list of articles with filter and search).
 
 Individual publications are accessible through URL following this canevas: http://www.betterfinance.eu/publication/{title-of-the-publication}
+
+### Mass-update: categories assignation for publications
+
+Go to the publications listing : https://betterfinance.eu/wp-admin/edit.php?post_type=publication
+
+Set the filter accordingly to your needs, for instance under Publication types, select "Press Releases", then click on filter.
+
+
+On the column header (just lefthand side of 'Title') tick the check box to select all filtered publications.
+
+Then on the Bulk action dropdown, select "Edit", then click Apply
+
+Then you can update the categories by ticking one or more categories from the "Categories" list box, and clicking the Update button.
 
 ## Categories
 Most contents allow to be assigned to one or more categories.  
