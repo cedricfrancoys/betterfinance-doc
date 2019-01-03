@@ -112,14 +112,24 @@ To add a link to a page into the menu structure:
 ## Template parts updates
 
 ### Update email, address, phone number
-* `Menu > Appearance > Widgets > Footer Sidebar > Financepress Contact Info`
-* `Menu > Appearance > FinancePress Options > Header settings`
+`Menu > Appearance > Widgets > Footer Sidebar > Financepress Contact Info`
+
+`Menu > Appearance > FinancePress Options > Header settings`
 
 ### Update Copyright mention
-* `Menu > Appearance > FinancePress Options > Footer settings`
+`Menu > Appearance > FinancePress Options > Footer settings`
 
 ### Update Social links in header&footer
-* `Menu > Appearance > FinancePress Options > Social medias`
+`Menu > Appearance > FinancePress Options > Social medias`
 
 ### Update "Terms & conditions" or Privacy & Security" links 
-* `Menu > Appearance > FinancePress Options > Footer settings`
+`Menu > Appearance > FinancePress Options > Footer settings`
+
+### Update Footer widgets
+`Menu > Appearance > Widgets`
+
+
+
+* **About Us**  : `Footer Sidebar / Finance Press About Us`
+* **Useful links**  : `Footer Sidebar / Text: useful links`
+* **Mailing list subscription** : `Footer Sidebar / Financepress Subscribe to MailingList`
