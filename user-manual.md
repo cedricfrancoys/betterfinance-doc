@@ -55,6 +55,26 @@ On the website, publications can be accessed through the `Publications` section 
 
 Individual publications are accessible through URL following this canevas: http://www.betterfinance.eu/publication/{title-of-the-publication}
 
+
+### Events
+In order to activate registration, when editing an event, go to the "**Tickets**" section.
+
+There you can either add the possibility add either paid (ticket) or free (RSVP) registrations, or even both.
+
+Enter the "type" field (the word you're actually using for "ticket": it can be "ticket", "registration", ...)
+And, optionally, the "capacity", which is the maximum number of possible registrants (if any).
+
+Under the "Attendee Information" section, you can customize the contact details asked to the registrant. You may select "Registrant details", a fielset that should cover most needs.
+
+
+Under the Advanced" section, you can also add the dates, if any, between which registration is available, along with a short description of the ticket itself (optional).
+
+
+Once a ticket or RSVp has been created:
+* in the **Admin panel**, two additional buttons "View Attendees" and "View orders" appear under the "Tickets" section.
+* on the **website**, at the event page, a new line "Register for the event" appears at the bottom of the event description.
+
+
 ### Mass-update: categories assignation for publications
 
 Go to the publications listing : https://betterfinance.eu/wp-admin/edit.php?post_type=publication

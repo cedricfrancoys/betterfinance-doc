@@ -1,25 +1,10 @@
-### Highlight
-Data Model:  
+# Data Model
 
-* picture
-* title
-* description
-* URL
-
-
-### Members
-Data Model:  
-
-* name
-* country_code
-* description
-* contact_info
-* url
-* logo
 
 ## Articles
 
 ### Articles types
+
 * News ("latest news")
 * Newsletter
 * Press coverage ("in the media")
@@ -28,6 +13,7 @@ Data Model:
 	
 	
 ### Publications types
+
 * Positions papers & Consultations
 * Research papers
 * Press releases
@@ -56,8 +42,27 @@ Data Model:
 * Shareholder Rights
 * Packaged Investment Products
 	
+## Other models
+
+### Highlight
+
+* picture
+* title
+* description
+* URL
+
+
+### Members
+
+* name
+* country_code
+* description
+* contact_info
+* url
+* logo
+
 	
-## Custom types 
+## About custom types 
 Under WordPress there are only 2 core types related to content organisation: post and taxonomy.  
 
 For that reason, WP litterature often refers to "Custom Posts" whereas it is actually talking about custom types.  
@@ -108,14 +113,12 @@ Custom Post Type Permalink Settings
 --> Simple Post Type Permalinks
 
 
-## Templating
+# Templating
 
 ### Pages
 Under WP, pages are a special type of posts.
 
-WP bakery
-
-Allows to define clear division of pages in responsive rows and columns.
+WP bakery allows to define clear division of pages in responsive rows and columns.
 
 ### Custom types
 Inside the current theme main directory (e.g. \wp-content\themes\twentysixteen), copy single.php and rename it to single-{cutsom_type}.php  
@@ -125,11 +128,20 @@ Edit single-{cutsom_type}.php and update its call to `get_template_part` to targ
 
 Customize `template-parts\{custom_type}.php` according to the design.  
 
-## Rights and Roles
+# Rights and Roles
 
 * Adminize
 * User Role Editor
 
-## Admin
+# Admin
 
 Complementary option, use **Dashicons + Custom Post Types** to choose the icons in the WP admin menu for the custom types
+
+# SEO
+
+## Google Anlaytics
+
+analytics.js is injected in the header of the betterfinance theme, within `header.php`  
+
+The JS snippet is defined using the UA of BF. 
+And a dedicated method `ga_notify()` is also defined to ease the triggering of GA events.
